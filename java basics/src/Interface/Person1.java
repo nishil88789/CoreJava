@@ -10,7 +10,7 @@ public class Person1 {
 		System.out.println("person Default");
 	}
 	
-	public Person1(String fname , String ln) {
+	public Person1(String fname , String lname) {
 		this();
 		System.out.println("person 2 Parameter");
 	}

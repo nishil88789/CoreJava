@@ -1,4 +1,4 @@
-package com.trays.CollectionFramework;
+package com.rays.CollectionFramework;
 
 import java.util.ArrayDeque;
 
